@@ -1,33 +1,23 @@
-# 👋 Привет, я Лев Савельев
+<div align="center">
+  
+# 🧙‍♂️ Привет, я [Твоё Имя]
 
-## 🚀 О себе
+### Студент 2 курса | Начинающий C# разработчик | HTML/CSS энтузиаст
 
-> Фронтенд (HTML, CSS) для души и проектов || Начинающий Backend-разработчик на C# 
+[![Статус: учусь каждый день](https://img.shields.io/badge/Статус-учусь_каждый_день-2ea44f?style=for-the-badge)]()
 
-Создаю надёжные API на ASP.NET Core, верстаю аккуратные интерфейсы. Люблю чистый код, паттерны проектирования и удобный UX.
+</div>
 
-## 🛠 Технологии
-**Frontend**  
-HTML5 | CSS3 (Flex/Grid, адаптив) | Tailwind / Bootstrap
+## 🎪 Обо мне (честно и с юмором)
 
-**Backend**  
-C# / .NET 8 | ASP.NET Core | Entity Framework | LINQ | xUnit
-
-**Инструменты**  
-Git | Docker | PostgreSQL | Swagger | Azure / Render
-
-## 📈 Статистика
-
-![Твоя GitHub статистика](https://github-readme-stats.vercel.app/api?username=твой_ник&show_icons=true&theme=dark)
-
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=твой_ник&layout=compact&theme=dark)
-
-## 📌 Пиннутые проекты
-
-- 🔹 [Название проекта 1](ссылка) — API на C# с JWT и Swagger
-- 🔹 [Название проекта 2](ссылка) — адаптивный лендинг на HTML/CSS
-- 🔹 [Название проекта 3](ссылка) — CRUD-приложение на Blazor
-
+```javascript
+const me = {
+  сейчас: "Второй курс, горю разработкой 🔥",
+  умею_уверенно: ["HTML", "CSS", "адаптивная вёрстка"],
+  учусь_активно: ["C#", ".NET", "алгоритмы"],
+  в_планах: ["ASP.NET Core", "Entity Framework", "React"],
+  девиз: "Лучше кривой свой проект, чем идеальный чужой"
+}
 ## 📫 Как со мной связаться
 
 [Telegram](@focus_1917) • [VK](https://vk.com/fatum4) • [Email](levtorri@yandex.ru)
