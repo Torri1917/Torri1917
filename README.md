@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🚀 [ТВОЁ ИМЯ]
+# 🚀 Лев Савельев
 
 ### Студент 2 курса | Будущий fullstack-разработчик
 
@@ -37,7 +37,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### В планах на этот семестр
+### В планах на грядущее будущее
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -50,7 +50,7 @@
 
 | Проект | Ссылка |
 |--------|--------|
-| Мой первый сайт-визитка | [Смотреть →](https://твой-ник.github.io/название-репозитория) |
+| Мой первый сайт-резюме | [Смотреть →](https://Torri1917.github.io/my) |
 | Портфолио с анимациями | [Смотреть →](https://твой-ник.github.io/название-репозитория) |
 | Следующий проект | 🔜 Скоро |
 
@@ -63,14 +63,10 @@
 | Telegram-бот | 🚧 В разработке (будет через 2 недели) |
 
 ---
-
-## 📈 Моя статистика (честная)
-
 ## 📫 Связаться со мной
 
 [Telegram](@focus_1917) • [VK](https://vk.com/fatum4) • [Email](levtorri@yandex.ru)
 
----
 
 *Каждый день я пишу код лучше, чем вчера*
 
