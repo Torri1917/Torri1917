@@ -10,7 +10,7 @@
 
 ## 🎪 Обо мне (честно и с юмором)
 
-```javascript
+javascript
 const me = {
   сейчас: "Второй курс, горю разработкой 🔥",
   умею_уверенно: ["HTML", "CSS", "адаптивная вёрстка"],
@@ -18,6 +18,5 @@ const me = {
   в_планах: ["ASP.NET Core", "Entity Framework", "React"],
   девиз: "Лучше кривой свой проект, чем идеальный чужой"
 }
-## 📫 Как со мной связаться
 
 [Telegram](@focus_1917) • [VK](https://vk.com/fatum4) • [Email](levtorri@yandex.ru)
