@@ -50,11 +50,12 @@
 
 | Проект | Ссылка |
 |--------|--------|
+| мое портфолио | [Смотреть →](https://torri1917.github.io/my-porfolio/) |
 | сайт резюме аниматора | [Смотреть →](https://torri1917.github.io/my-portfolio-visit/) |
 | брендинговое агенство | [Смотреть →](https://torri1917.github.io/my-cod-design) |
 | мой первый опыт в разработке сайтов | [Смотреть →](https://torri1917.github.io/my-first-time/) |
 | Следующий проект | 🔜 Скоро |
-
+https://torri1917.github.io/my-porfolio/
 ### 🎯 C# — то, чем я горжусь
 
 | Проект | Что умеет |
