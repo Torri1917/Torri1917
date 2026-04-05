@@ -57,7 +57,8 @@
 | Следующий проект | 🔜 Скоро |
 
 ### 🎯 C# — то, чем я горжусь
-|один из значемых проэктах у меня на практике:|
+
+один из значемых проэктах у меня на практике:
 # 🧮 Консольный калькулятор на C#
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/ru-ru/dotnet/csharp/)
