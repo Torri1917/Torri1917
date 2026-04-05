@@ -54,6 +54,7 @@
 | сайт резюме аниматора | [Смотреть →](https://torri1917.github.io/my-portfolio-visit/) |
 | брендинговое агенство | [Смотреть →](https://torri1917.github.io/my-cod-design) |
 | мой первый опыт в разработке сайтов | [Смотреть →](https://torri1917.github.io/my-first-time/) |
+| работа над шаблонами сайтов-визиток | [Смотреть →](https://torri1917.github.io/my-pattern/) |
 | Следующий проект | 🔜 Скоро |
 
 ### 🎯 C# — то, чем я горжусь
